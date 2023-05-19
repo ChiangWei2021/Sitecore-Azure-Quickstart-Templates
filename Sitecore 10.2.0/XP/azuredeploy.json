@@ -348,7 +348,7 @@
     },
     "applicationInsightsLocation": {
       "type": "string",
-      "defaultValue": "East Asia"
+      "defaultValue": "Korea Central"
     },
     "storeSitecoreCountersInApplicationInsights": {
       "type": "bool",
