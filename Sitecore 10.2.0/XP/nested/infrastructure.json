@@ -189,7 +189,7 @@
     },
     "applicationInsightsLocation": {
       "type": "string",
-      "defaultValue": "East US"
+      "defaultValue": "Korea Central"
     },
     "applicationInsightsPricePlan": {
       "type": "string",
