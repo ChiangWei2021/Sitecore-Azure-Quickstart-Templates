@@ -348,7 +348,7 @@
     },
     "applicationInsightsLocation": {
       "type": "string",
-      "defaultValue": "East US"
+      "defaultValue": "East Asia"
     },
     "storeSitecoreCountersInApplicationInsights": {
       "type": "bool",
