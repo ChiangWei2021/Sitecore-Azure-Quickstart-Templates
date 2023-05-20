@@ -189,7 +189,7 @@
     },
     "applicationInsightsLocation": {
       "type": "string",
-      "defaultValue": "Korea Central"
+      "defaultValue": "East Aisa"
     },
     "applicationInsightsPricePlan": {
       "type": "string",
